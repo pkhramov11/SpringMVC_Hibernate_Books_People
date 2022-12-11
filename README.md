@@ -1,5 +1,6 @@
 # SpringMVC_Hibernate_Books_People
-
+Файл с заданием в корне проекта с названием "Техническое задание".
+<br>
 ![Image alt](https://github.com/pkhramov11/SpringMVC_Hibernate_Books_People/raw/master/pic1.JPG)
 <br>
 ![Image alt](https://github.com/pkhramov11/SpringMVC_Hibernate_Books_People/raw/master/pic2.JPG)
